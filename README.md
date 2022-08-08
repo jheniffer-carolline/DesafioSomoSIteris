@@ -1,6 +1,6 @@
 # DesafioSomosIteris
 
-Linguagem: Java Scrip, HTML e CSS.
+Linguagem: Java Script, HTML e CSS.
 
 Framework: Bootstrap.
 Descrição
